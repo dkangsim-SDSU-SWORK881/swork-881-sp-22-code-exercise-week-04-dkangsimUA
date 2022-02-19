@@ -2,7 +2,7 @@
 title:  'Coding Challenge #4'
 subtitle: 'SWORK 881'
 author:
-- name: Student -  [Your name goes here]
+- name: Student -  [Eastern]
 output: html_document
 ---
 
